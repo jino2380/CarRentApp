@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.FingerPrintApp" parent="Theme.AppCompat.NoActionBar"/>
+    <style name="Theme.Home" parent="Theme.AppCompat.Light.DarkActionBar"/>
+
+</resources>
